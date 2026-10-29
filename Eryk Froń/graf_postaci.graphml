@@ -1,0 +1,802 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><key id="d1" for="edge" attr.name="weight" attr.type="long"/>
+<key id="d0" for="node" attr.name="label" attr.type="string"/>
+<graph edgedefault="undirected"><node id="PERRITO">
+  <data key="d0">PERRITO</data>
+</node>
+<node id="PUSS">
+  <data key="d0">PUSS</data>
+</node>
+<node id="KITTY">
+  <data key="d0">KITTY</data>
+</node>
+<node id="BABY BEAR">
+  <data key="d0">BABY BEAR</data>
+</node>
+<node id="PAPA BEAR">
+  <data key="d0">PAPA BEAR</data>
+</node>
+<node id="GOLDILOCKS">
+  <data key="d0">GOLDILOCKS</data>
+</node>
+<node id="MAMA BEAR">
+  <data key="d0">MAMA BEAR</data>
+</node>
+<node id="JACK HORNER">
+  <data key="d0">JACK HORNER</data>
+</node>
+<node id="MAMA LUNA">
+  <data key="d0">MAMA LUNA</data>
+</node>
+<node id="ETHICAL BUG">
+  <data key="d0">ETHICAL BUG</data>
+</node>
+<node id="WOLF">
+  <data key="d0">WOLF</data>
+</node>
+<node id="LITTLE BOY">
+  <data key="d0">LITTLE BOY</data>
+</node>
+<node id="VET">
+  <data key="d0">VET</data>
+</node>
+<node id="BURLY PUSS">
+  <data key="d0">BURLY PUSS</data>
+</node>
+<node id="GOVERNOR">
+  <data key="d0">GOVERNOR</data>
+</node>
+<node id="JAN">
+  <data key="d0">JAN</data>
+</node>
+<node id="JO">
+  <data key="d0">JO</data>
+</node>
+<node id="ALL FORMER LIVES">
+  <data key="d0">ALL FORMER LIVES</data>
+</node>
+<node id="GAMBLER PUSS">
+  <data key="d0">GAMBLER PUSS</data>
+</node>
+<node id="VANITY PUSS">
+  <data key="d0">VANITY PUSS</data>
+</node>
+<node id="GUITARIST PUSS">
+  <data key="d0">GUITARIST PUSS</data>
+</node>
+<node id="PAMPLONA PUSS">
+  <data key="d0">PAMPLONA PUSS</data>
+</node>
+<node id="SWORDSMAN PUSS">
+  <data key="d0">SWORDSMAN PUSS</data>
+</node>
+<node id="TIPSY PUSS">
+  <data key="d0">TIPSY PUSS</data>
+</node>
+<node id="CROWD">
+  <data key="d0">CROWD</data>
+</node>
+<node id="BAND">
+  <data key="d0">BAND</data>
+</node>
+<node id="PARTY GOERS">
+  <data key="d0">PARTY GOERS</data>
+</node>
+<node id="FEMALE PARTY GOER">
+  <data key="d0">FEMALE PARTY GOER</data>
+</node>
+<node id="PROUD PAPA">
+  <data key="d0">PROUD PAPA</data>
+</node>
+<node id="LITTLE JACK HORNER">
+  <data key="d0">LITTLE JACK HORNER</data>
+</node>
+<node id="AUDIENCE MEMBER">
+  <data key="d0">AUDIENCE MEMBER</data>
+</node>
+<node id="PINOCCHIO">
+  <data key="d0">PINOCCHIO</data>
+</node>
+<node id="MOUNTAIN GIANT">
+  <data key="d0">MOUNTAIN GIANT</data>
+</node>
+<node id="VILLAGER">
+  <data key="d0">VILLAGER</data>
+</node>
+<node id="BARTENDER">
+  <data key="d0">BARTENDER</data>
+</node>
+<node id="GINGY">
+  <data key="d0">GINGY</data>
+</node>
+<node id="VOICE">
+  <data key="d0">VOICE</data>
+</node>
+<node id="WAITRESS">
+  <data key="d0">WAITRESS</data>
+</node>
+<node id="BAND MEMBERS">
+  <data key="d0">BAND MEMBERS</data>
+</node>
+<node id="GUTARIST PUSS">
+  <data key="d0">GUTARIST PUSS</data>
+</node>
+<node id="DANCING PUSS">
+  <data key="d0">DANCING PUSS</data>
+</node>
+<node id="LITTLE GOLDI">
+  <data key="d0">LITTLE GOLDI</data>
+</node>
+<node id="HENCHMAN">
+  <data key="d0">HENCHMAN</data>
+</node>
+<node id="BAKERS">
+  <data key="d0">BAKERS</data>
+</node>
+<node id="FEMALE GUARD">
+  <data key="d0">FEMALE GUARD</data>
+</node>
+<node id="ASSISTANT">
+  <data key="d0">ASSISTANT</data>
+</node>
+<edge source="PERRITO" target="PUSS">
+  <data key="d1">16</data>
+</edge>
+<edge source="PERRITO" target="KITTY">
+  <data key="d1">12</data>
+</edge>
+<edge source="PERRITO" target="MAMA BEAR">
+  <data key="d1">6</data>
+</edge>
+<edge source="PERRITO" target="PAPA BEAR">
+  <data key="d1">6</data>
+</edge>
+<edge source="PERRITO" target="GOLDILOCKS">
+  <data key="d1">6</data>
+</edge>
+<edge source="PERRITO" target="BABY BEAR">
+  <data key="d1">6</data>
+</edge>
+<edge source="PERRITO" target="JACK HORNER">
+  <data key="d1">2</data>
+</edge>
+<edge source="PERRITO" target="ETHICAL BUG">
+  <data key="d1">2</data>
+</edge>
+<edge source="PERRITO" target="MAMA LUNA">
+  <data key="d1">2</data>
+</edge>
+<edge source="PERRITO" target="HENCHMAN">
+  <data key="d1">1</data>
+</edge>
+<edge source="PERRITO" target="WOLF">
+  <data key="d1">1</data>
+</edge>
+<edge source="PUSS" target="KITTY">
+  <data key="d1">14</data>
+</edge>
+<edge source="PUSS" target="GOLDILOCKS">
+  <data key="d1">7</data>
+</edge>
+<edge source="PUSS" target="PAPA BEAR">
+  <data key="d1">7</data>
+</edge>
+<edge source="PUSS" target="BABY BEAR">
+  <data key="d1">7</data>
+</edge>
+<edge source="PUSS" target="MAMA BEAR">
+  <data key="d1">7</data>
+</edge>
+<edge source="PUSS" target="MAMA LUNA">
+  <data key="d1">4</data>
+</edge>
+<edge source="PUSS" target="JACK HORNER">
+  <data key="d1">4</data>
+</edge>
+<edge source="PUSS" target="WOLF">
+  <data key="d1">3</data>
+</edge>
+<edge source="PUSS" target="LITTLE BOY">
+  <data key="d1">3</data>
+</edge>
+<edge source="PUSS" target="VET">
+  <data key="d1">2</data>
+</edge>
+<edge source="PUSS" target="BURLY PUSS">
+  <data key="d1">2</data>
+</edge>
+<edge source="PUSS" target="GOVERNOR">
+  <data key="d1">2</data>
+</edge>
+<edge source="PUSS" target="GUITARIST PUSS">
+  <data key="d1">2</data>
+</edge>
+<edge source="PUSS" target="GAMBLER PUSS">
+  <data key="d1">2</data>
+</edge>
+<edge source="PUSS" target="SWORDSMAN PUSS">
+  <data key="d1">2</data>
+</edge>
+<edge source="PUSS" target="TIPSY PUSS">
+  <data key="d1">2</data>
+</edge>
+<edge source="PUSS" target="VANITY PUSS">
+  <data key="d1">2</data>
+</edge>
+<edge source="PUSS" target="ALL FORMER LIVES">
+  <data key="d1">2</data>
+</edge>
+<edge source="PUSS" target="PAMPLONA PUSS">
+  <data key="d1">2</data>
+</edge>
+<edge source="PUSS" target="CROWD">
+  <data key="d1">2</data>
+</edge>
+<edge source="PUSS" target="ETHICAL BUG">
+  <data key="d1">2</data>
+</edge>
+<edge source="PUSS" target="BAND">
+  <data key="d1">2</data>
+</edge>
+<edge source="PUSS" target="AUDIENCE MEMBER">
+  <data key="d1">1</data>
+</edge>
+<edge source="PUSS" target="MOUNTAIN GIANT">
+  <data key="d1">1</data>
+</edge>
+<edge source="PUSS" target="PROUD PAPA">
+  <data key="d1">1</data>
+</edge>
+<edge source="PUSS" target="BARTENDER">
+  <data key="d1">1</data>
+</edge>
+<edge source="PUSS" target="GINGY">
+  <data key="d1">1</data>
+</edge>
+<edge source="PUSS" target="WAITRESS">
+  <data key="d1">1</data>
+</edge>
+<edge source="PUSS" target="VOICE">
+  <data key="d1">1</data>
+</edge>
+<edge source="PUSS" target="PARTY GOERS">
+  <data key="d1">1</data>
+</edge>
+<edge source="PUSS" target="VILLAGER">
+  <data key="d1">1</data>
+</edge>
+<edge source="PUSS" target="BAND MEMBERS">
+  <data key="d1">1</data>
+</edge>
+<edge source="PUSS" target="FEMALE PARTY GOER">
+  <data key="d1">1</data>
+</edge>
+<edge source="PUSS" target="HENCHMAN">
+  <data key="d1">1</data>
+</edge>
+<edge source="PUSS" target="PINOCCHIO">
+  <data key="d1">1</data>
+</edge>
+<edge source="PUSS" target="LITTLE JACK HORNER">
+  <data key="d1">1</data>
+</edge>
+<edge source="PUSS" target="JAN">
+  <data key="d1">1</data>
+</edge>
+<edge source="PUSS" target="JO">
+  <data key="d1">1</data>
+</edge>
+<edge source="PUSS" target="DANCING PUSS">
+  <data key="d1">1</data>
+</edge>
+<edge source="PUSS" target="GUTARIST PUSS">
+  <data key="d1">1</data>
+</edge>
+<edge source="KITTY" target="BABY BEAR">
+  <data key="d1">5</data>
+</edge>
+<edge source="KITTY" target="GOLDILOCKS">
+  <data key="d1">5</data>
+</edge>
+<edge source="KITTY" target="MAMA BEAR">
+  <data key="d1">5</data>
+</edge>
+<edge source="KITTY" target="PAPA BEAR">
+  <data key="d1">5</data>
+</edge>
+<edge source="KITTY" target="JACK HORNER">
+  <data key="d1">4</data>
+</edge>
+<edge source="KITTY" target="ETHICAL BUG">
+  <data key="d1">2</data>
+</edge>
+<edge source="KITTY" target="AUDIENCE MEMBER">
+  <data key="d1">1</data>
+</edge>
+<edge source="KITTY" target="JAN">
+  <data key="d1">1</data>
+</edge>
+<edge source="KITTY" target="JO">
+  <data key="d1">1</data>
+</edge>
+<edge source="KITTY" target="LITTLE JACK HORNER">
+  <data key="d1">1</data>
+</edge>
+<edge source="KITTY" target="PINOCCHIO">
+  <data key="d1">1</data>
+</edge>
+<edge source="KITTY" target="WOLF">
+  <data key="d1">1</data>
+</edge>
+<edge source="BABY BEAR" target="PAPA BEAR">
+  <data key="d1">12</data>
+</edge>
+<edge source="BABY BEAR" target="GOLDILOCKS">
+  <data key="d1">12</data>
+</edge>
+<edge source="BABY BEAR" target="MAMA BEAR">
+  <data key="d1">12</data>
+</edge>
+<edge source="BABY BEAR" target="JACK HORNER">
+  <data key="d1">5</data>
+</edge>
+<edge source="BABY BEAR" target="ETHICAL BUG">
+  <data key="d1">2</data>
+</edge>
+<edge source="BABY BEAR" target="LITTLE JACK HORNER">
+  <data key="d1">1</data>
+</edge>
+<edge source="BABY BEAR" target="JO">
+  <data key="d1">1</data>
+</edge>
+<edge source="BABY BEAR" target="JAN">
+  <data key="d1">1</data>
+</edge>
+<edge source="BABY BEAR" target="AUDIENCE MEMBER">
+  <data key="d1">1</data>
+</edge>
+<edge source="BABY BEAR" target="MAMA LUNA">
+  <data key="d1">1</data>
+</edge>
+<edge source="BABY BEAR" target="PINOCCHIO">
+  <data key="d1">1</data>
+</edge>
+<edge source="BABY BEAR" target="LITTLE GOLDI">
+  <data key="d1">1</data>
+</edge>
+<edge source="BABY BEAR" target="WOLF">
+  <data key="d1">1</data>
+</edge>
+<edge source="PAPA BEAR" target="MAMA BEAR">
+  <data key="d1">12</data>
+</edge>
+<edge source="PAPA BEAR" target="GOLDILOCKS">
+  <data key="d1">12</data>
+</edge>
+<edge source="PAPA BEAR" target="JACK HORNER">
+  <data key="d1">5</data>
+</edge>
+<edge source="PAPA BEAR" target="ETHICAL BUG">
+  <data key="d1">2</data>
+</edge>
+<edge source="PAPA BEAR" target="AUDIENCE MEMBER">
+  <data key="d1">1</data>
+</edge>
+<edge source="PAPA BEAR" target="MAMA LUNA">
+  <data key="d1">1</data>
+</edge>
+<edge source="PAPA BEAR" target="LITTLE JACK HORNER">
+  <data key="d1">1</data>
+</edge>
+<edge source="PAPA BEAR" target="LITTLE GOLDI">
+  <data key="d1">1</data>
+</edge>
+<edge source="PAPA BEAR" target="PINOCCHIO">
+  <data key="d1">1</data>
+</edge>
+<edge source="PAPA BEAR" target="JAN">
+  <data key="d1">1</data>
+</edge>
+<edge source="PAPA BEAR" target="JO">
+  <data key="d1">1</data>
+</edge>
+<edge source="PAPA BEAR" target="WOLF">
+  <data key="d1">1</data>
+</edge>
+<edge source="GOLDILOCKS" target="MAMA BEAR">
+  <data key="d1">12</data>
+</edge>
+<edge source="GOLDILOCKS" target="JACK HORNER">
+  <data key="d1">5</data>
+</edge>
+<edge source="GOLDILOCKS" target="ETHICAL BUG">
+  <data key="d1">2</data>
+</edge>
+<edge source="GOLDILOCKS" target="AUDIENCE MEMBER">
+  <data key="d1">1</data>
+</edge>
+<edge source="GOLDILOCKS" target="MAMA LUNA">
+  <data key="d1">1</data>
+</edge>
+<edge source="GOLDILOCKS" target="PINOCCHIO">
+  <data key="d1">1</data>
+</edge>
+<edge source="GOLDILOCKS" target="JAN">
+  <data key="d1">1</data>
+</edge>
+<edge source="GOLDILOCKS" target="LITTLE JACK HORNER">
+  <data key="d1">1</data>
+</edge>
+<edge source="GOLDILOCKS" target="JO">
+  <data key="d1">1</data>
+</edge>
+<edge source="GOLDILOCKS" target="LITTLE GOLDI">
+  <data key="d1">1</data>
+</edge>
+<edge source="GOLDILOCKS" target="WOLF">
+  <data key="d1">1</data>
+</edge>
+<edge source="MAMA BEAR" target="JACK HORNER">
+  <data key="d1">5</data>
+</edge>
+<edge source="MAMA BEAR" target="ETHICAL BUG">
+  <data key="d1">2</data>
+</edge>
+<edge source="MAMA BEAR" target="AUDIENCE MEMBER">
+  <data key="d1">1</data>
+</edge>
+<edge source="MAMA BEAR" target="MAMA LUNA">
+  <data key="d1">1</data>
+</edge>
+<edge source="MAMA BEAR" target="LITTLE JACK HORNER">
+  <data key="d1">1</data>
+</edge>
+<edge source="MAMA BEAR" target="LITTLE GOLDI">
+  <data key="d1">1</data>
+</edge>
+<edge source="MAMA BEAR" target="PINOCCHIO">
+  <data key="d1">1</data>
+</edge>
+<edge source="MAMA BEAR" target="JAN">
+  <data key="d1">1</data>
+</edge>
+<edge source="MAMA BEAR" target="JO">
+  <data key="d1">1</data>
+</edge>
+<edge source="MAMA BEAR" target="WOLF">
+  <data key="d1">1</data>
+</edge>
+<edge source="JACK HORNER" target="ETHICAL BUG">
+  <data key="d1">4</data>
+</edge>
+<edge source="JACK HORNER" target="JAN">
+  <data key="d1">2</data>
+</edge>
+<edge source="JACK HORNER" target="JO">
+  <data key="d1">2</data>
+</edge>
+<edge source="JACK HORNER" target="AUDIENCE MEMBER">
+  <data key="d1">1</data>
+</edge>
+<edge source="JACK HORNER" target="LITTLE JACK HORNER">
+  <data key="d1">1</data>
+</edge>
+<edge source="JACK HORNER" target="PINOCCHIO">
+  <data key="d1">1</data>
+</edge>
+<edge source="JACK HORNER" target="BAKERS">
+  <data key="d1">1</data>
+</edge>
+<edge source="JACK HORNER" target="FEMALE GUARD">
+  <data key="d1">1</data>
+</edge>
+<edge source="JACK HORNER" target="WOLF">
+  <data key="d1">1</data>
+</edge>
+<edge source="ETHICAL BUG" target="BAKERS">
+  <data key="d1">1</data>
+</edge>
+<edge source="ETHICAL BUG" target="WOLF">
+  <data key="d1">1</data>
+</edge>
+<edge source="WOLF" target="BARTENDER">
+  <data key="d1">1</data>
+</edge>
+<edge source="WOLF" target="ALL FORMER LIVES">
+  <data key="d1">1</data>
+</edge>
+<edge source="WOLF" target="BURLY PUSS">
+  <data key="d1">1</data>
+</edge>
+<edge source="WOLF" target="GAMBLER PUSS">
+  <data key="d1">1</data>
+</edge>
+<edge source="WOLF" target="GUITARIST PUSS">
+  <data key="d1">1</data>
+</edge>
+<edge source="WOLF" target="PAMPLONA PUSS">
+  <data key="d1">1</data>
+</edge>
+<edge source="WOLF" target="SWORDSMAN PUSS">
+  <data key="d1">1</data>
+</edge>
+<edge source="WOLF" target="TIPSY PUSS">
+  <data key="d1">1</data>
+</edge>
+<edge source="WOLF" target="VANITY PUSS">
+  <data key="d1">1</data>
+</edge>
+<edge source="LITTLE BOY" target="BAND">
+  <data key="d1">2</data>
+</edge>
+<edge source="LITTLE BOY" target="CROWD">
+  <data key="d1">2</data>
+</edge>
+<edge source="LITTLE BOY" target="GOVERNOR">
+  <data key="d1">2</data>
+</edge>
+<edge source="LITTLE BOY" target="FEMALE PARTY GOER">
+  <data key="d1">1</data>
+</edge>
+<edge source="LITTLE BOY" target="VILLAGER">
+  <data key="d1">1</data>
+</edge>
+<edge source="LITTLE BOY" target="MOUNTAIN GIANT">
+  <data key="d1">1</data>
+</edge>
+<edge source="LITTLE BOY" target="PROUD PAPA">
+  <data key="d1">1</data>
+</edge>
+<edge source="LITTLE BOY" target="PARTY GOERS">
+  <data key="d1">1</data>
+</edge>
+<edge source="LITTLE BOY" target="BAND MEMBERS">
+  <data key="d1">1</data>
+</edge>
+<edge source="VET" target="GINGY">
+  <data key="d1">1</data>
+</edge>
+<edge source="VET" target="VOICE">
+  <data key="d1">1</data>
+</edge>
+<edge source="BURLY PUSS" target="ALL FORMER LIVES">
+  <data key="d1">2</data>
+</edge>
+<edge source="BURLY PUSS" target="VANITY PUSS">
+  <data key="d1">2</data>
+</edge>
+<edge source="BURLY PUSS" target="SWORDSMAN PUSS">
+  <data key="d1">2</data>
+</edge>
+<edge source="BURLY PUSS" target="PAMPLONA PUSS">
+  <data key="d1">2</data>
+</edge>
+<edge source="BURLY PUSS" target="TIPSY PUSS">
+  <data key="d1">2</data>
+</edge>
+<edge source="BURLY PUSS" target="GAMBLER PUSS">
+  <data key="d1">2</data>
+</edge>
+<edge source="BURLY PUSS" target="GUITARIST PUSS">
+  <data key="d1">2</data>
+</edge>
+<edge source="BURLY PUSS" target="GUTARIST PUSS">
+  <data key="d1">1</data>
+</edge>
+<edge source="BURLY PUSS" target="DANCING PUSS">
+  <data key="d1">1</data>
+</edge>
+<edge source="GOVERNOR" target="BAND">
+  <data key="d1">2</data>
+</edge>
+<edge source="GOVERNOR" target="PARTY GOERS">
+  <data key="d1">1</data>
+</edge>
+<edge source="GOVERNOR" target="FEMALE PARTY GOER">
+  <data key="d1">1</data>
+</edge>
+<edge source="GOVERNOR" target="PROUD PAPA">
+  <data key="d1">1</data>
+</edge>
+<edge source="GOVERNOR" target="BAND MEMBERS">
+  <data key="d1">1</data>
+</edge>
+<edge source="GOVERNOR" target="CROWD">
+  <data key="d1">1</data>
+</edge>
+<edge source="GOVERNOR" target="ASSISTANT">
+  <data key="d1">1</data>
+</edge>
+<edge source="JAN" target="JO">
+  <data key="d1">2</data>
+</edge>
+<edge source="JAN" target="AUDIENCE MEMBER">
+  <data key="d1">1</data>
+</edge>
+<edge source="JAN" target="LITTLE JACK HORNER">
+  <data key="d1">1</data>
+</edge>
+<edge source="JAN" target="PINOCCHIO">
+  <data key="d1">1</data>
+</edge>
+<edge source="JO" target="AUDIENCE MEMBER">
+  <data key="d1">1</data>
+</edge>
+<edge source="JO" target="LITTLE JACK HORNER">
+  <data key="d1">1</data>
+</edge>
+<edge source="JO" target="PINOCCHIO">
+  <data key="d1">1</data>
+</edge>
+<edge source="ALL FORMER LIVES" target="SWORDSMAN PUSS">
+  <data key="d1">2</data>
+</edge>
+<edge source="ALL FORMER LIVES" target="TIPSY PUSS">
+  <data key="d1">2</data>
+</edge>
+<edge source="ALL FORMER LIVES" target="VANITY PUSS">
+  <data key="d1">2</data>
+</edge>
+<edge source="ALL FORMER LIVES" target="GAMBLER PUSS">
+  <data key="d1">2</data>
+</edge>
+<edge source="ALL FORMER LIVES" target="GUITARIST PUSS">
+  <data key="d1">2</data>
+</edge>
+<edge source="ALL FORMER LIVES" target="PAMPLONA PUSS">
+  <data key="d1">2</data>
+</edge>
+<edge source="ALL FORMER LIVES" target="GUTARIST PUSS">
+  <data key="d1">1</data>
+</edge>
+<edge source="ALL FORMER LIVES" target="DANCING PUSS">
+  <data key="d1">1</data>
+</edge>
+<edge source="GAMBLER PUSS" target="VANITY PUSS">
+  <data key="d1">2</data>
+</edge>
+<edge source="GAMBLER PUSS" target="PAMPLONA PUSS">
+  <data key="d1">2</data>
+</edge>
+<edge source="GAMBLER PUSS" target="TIPSY PUSS">
+  <data key="d1">2</data>
+</edge>
+<edge source="GAMBLER PUSS" target="SWORDSMAN PUSS">
+  <data key="d1">2</data>
+</edge>
+<edge source="GAMBLER PUSS" target="GUITARIST PUSS">
+  <data key="d1">2</data>
+</edge>
+<edge source="GAMBLER PUSS" target="DANCING PUSS">
+  <data key="d1">1</data>
+</edge>
+<edge source="GAMBLER PUSS" target="GUTARIST PUSS">
+  <data key="d1">1</data>
+</edge>
+<edge source="VANITY PUSS" target="GUITARIST PUSS">
+  <data key="d1">2</data>
+</edge>
+<edge source="VANITY PUSS" target="PAMPLONA PUSS">
+  <data key="d1">2</data>
+</edge>
+<edge source="VANITY PUSS" target="SWORDSMAN PUSS">
+  <data key="d1">2</data>
+</edge>
+<edge source="VANITY PUSS" target="TIPSY PUSS">
+  <data key="d1">2</data>
+</edge>
+<edge source="VANITY PUSS" target="DANCING PUSS">
+  <data key="d1">1</data>
+</edge>
+<edge source="VANITY PUSS" target="GUTARIST PUSS">
+  <data key="d1">1</data>
+</edge>
+<edge source="GUITARIST PUSS" target="PAMPLONA PUSS">
+  <data key="d1">2</data>
+</edge>
+<edge source="GUITARIST PUSS" target="TIPSY PUSS">
+  <data key="d1">2</data>
+</edge>
+<edge source="GUITARIST PUSS" target="SWORDSMAN PUSS">
+  <data key="d1">2</data>
+</edge>
+<edge source="GUITARIST PUSS" target="GUTARIST PUSS">
+  <data key="d1">1</data>
+</edge>
+<edge source="GUITARIST PUSS" target="DANCING PUSS">
+  <data key="d1">1</data>
+</edge>
+<edge source="PAMPLONA PUSS" target="TIPSY PUSS">
+  <data key="d1">2</data>
+</edge>
+<edge source="PAMPLONA PUSS" target="SWORDSMAN PUSS">
+  <data key="d1">2</data>
+</edge>
+<edge source="PAMPLONA PUSS" target="DANCING PUSS">
+  <data key="d1">1</data>
+</edge>
+<edge source="PAMPLONA PUSS" target="GUTARIST PUSS">
+  <data key="d1">1</data>
+</edge>
+<edge source="SWORDSMAN PUSS" target="TIPSY PUSS">
+  <data key="d1">2</data>
+</edge>
+<edge source="SWORDSMAN PUSS" target="DANCING PUSS">
+  <data key="d1">1</data>
+</edge>
+<edge source="SWORDSMAN PUSS" target="GUTARIST PUSS">
+  <data key="d1">1</data>
+</edge>
+<edge source="TIPSY PUSS" target="DANCING PUSS">
+  <data key="d1">1</data>
+</edge>
+<edge source="TIPSY PUSS" target="GUTARIST PUSS">
+  <data key="d1">1</data>
+</edge>
+<edge source="CROWD" target="VILLAGER">
+  <data key="d1">1</data>
+</edge>
+<edge source="CROWD" target="MOUNTAIN GIANT">
+  <data key="d1">1</data>
+</edge>
+<edge source="CROWD" target="PROUD PAPA">
+  <data key="d1">1</data>
+</edge>
+<edge source="CROWD" target="PARTY GOERS">
+  <data key="d1">1</data>
+</edge>
+<edge source="CROWD" target="BAND MEMBERS">
+  <data key="d1">1</data>
+</edge>
+<edge source="CROWD" target="BAND">
+  <data key="d1">1</data>
+</edge>
+<edge source="CROWD" target="FEMALE PARTY GOER">
+  <data key="d1">1</data>
+</edge>
+<edge source="BAND" target="FEMALE PARTY GOER">
+  <data key="d1">1</data>
+</edge>
+<edge source="BAND" target="PROUD PAPA">
+  <data key="d1">1</data>
+</edge>
+<edge source="BAND" target="PARTY GOERS">
+  <data key="d1">1</data>
+</edge>
+<edge source="BAND" target="BAND MEMBERS">
+  <data key="d1">1</data>
+</edge>
+<edge source="PARTY GOERS" target="FEMALE PARTY GOER">
+  <data key="d1">1</data>
+</edge>
+<edge source="PARTY GOERS" target="PROUD PAPA">
+  <data key="d1">1</data>
+</edge>
+<edge source="PARTY GOERS" target="BAND MEMBERS">
+  <data key="d1">1</data>
+</edge>
+<edge source="FEMALE PARTY GOER" target="PROUD PAPA">
+  <data key="d1">1</data>
+</edge>
+<edge source="FEMALE PARTY GOER" target="BAND MEMBERS">
+  <data key="d1">1</data>
+</edge>
+<edge source="PROUD PAPA" target="BAND MEMBERS">
+  <data key="d1">1</data>
+</edge>
+<edge source="LITTLE JACK HORNER" target="AUDIENCE MEMBER">
+  <data key="d1">1</data>
+</edge>
+<edge source="LITTLE JACK HORNER" target="PINOCCHIO">
+  <data key="d1">1</data>
+</edge>
+<edge source="AUDIENCE MEMBER" target="PINOCCHIO">
+  <data key="d1">1</data>
+</edge>
+<edge source="MOUNTAIN GIANT" target="VILLAGER">
+  <data key="d1">1</data>
+</edge>
+<edge source="GUTARIST PUSS" target="DANCING PUSS">
+  <data key="d1">1</data>
+</edge>
+</graph></graphml>
